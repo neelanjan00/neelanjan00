@@ -18,6 +18,11 @@ Neelanjan Manna is a Software Engineer at Harness. He is a contributor to the CN
 
 ## Development Stats 📊
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=neelanjan00&show_icons=true&theme=cobalt" width=50% align="left" />
