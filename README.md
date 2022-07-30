@@ -23,7 +23,12 @@ Neelanjan Manna is a Software Engineer at Harness. He is a contributor to the CN
     </span>
     <span style="flex-basis: 50%">
         <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
     </span>
 </div>
 
