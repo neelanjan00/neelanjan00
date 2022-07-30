@@ -8,7 +8,7 @@ Neelanjan Manna is a Software Engineer at Harness. He is a contributor to the CN
 
 <img src="./terminal.gif" width=100% />
 
-## Latest Blogs
+## Latest Blogs 📕
 <!-- BLOG-POST-LIST:START -->
 - [Why Did I Contribute to the LitmusChaos Project for Hacktoberfest 2021](https://neelanjanmanna.medium.com/why-did-i-contribute-to-the-litmuschaos-project-for-hacktoberfest-2021-1eaacdba0a03?source=rss-dcf285ed58a7------2)
 - [GCP VM Disk Loss Experiment for LitmusChaos](https://medium.com/litmus-chaos/gcp-vm-disk-loss-experiment-for-litmuschaos-881e8edcc4b5?source=rss-dcf285ed58a7------2)
@@ -16,19 +16,8 @@ Neelanjan Manna is a Software Engineer at Harness. He is a contributor to the CN
 - [Getting Started with Litmus 2.0 in Google Kubernetes Engine](https://medium.com/litmus-chaos/getting-started-with-litmus-2-0-in-google-kubernetes-engine-42dddb264a12?source=rss-dcf285ed58a7------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Github Stats
-<div style="display: flex">
-    <span style="flex-basis: 50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=neelanjan00&show_icons=true&theme=cobalt" width=50% />
-    </span>
-    <span style="flex-basis: 50%">
-        <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
+## Development Stats 📊
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-    </span>
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=neelanjan00&show_icons=true&theme=cobalt" width=50% align="left" />
