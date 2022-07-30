@@ -1,15 +1,12 @@
-<img src="./header.gif" style="width: 100%" />
+<img src="./header.gif" width=100% />
 
-<div style="display: flex; margin-top: 20px; margin-bottom: 20px;">
-    <p style="flex-basis: 85%; padding-top: 20px">
-        Neelanjan Manna is a Software Engineer at Harness. He is a contributor to the CNCF LitmusChaos project, a chaos engineering orchestration framework for validating the resiliency of cloud-native environments. He contributes to the development of emerging technologies including chaos engineering, distributed applications, and Kubernetes applications at Harness.
-    </p>
-    <span style="flex-basis: 15%; float: right">
-        <img src="./octocat.gif" />
-    </span>
-</div>
+<img align="right" src="./octocat.gif" width="115px" />
 
-<img src="./terminal.gif" style="width: 100%" />
+Neelanjan Manna is a Software Engineer at Harness. He is a contributor to the CNCF [LitmusChaos](https://litmuschaos.io/) project, a chaos engineering orchestration framework for validating the resiliency of cloud-native environments. He contributes to the development of emerging technologies including chaos engineering, distributed applications, and Kubernetes applications at Harness.
+
+<br />
+
+<img src="./terminal.gif" width=100% />
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
@@ -18,7 +15,7 @@
 ## Github Stats
 <div style="display: flex">
     <span style="flex-basis: 50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=neelanjan00&show_icons=true&theme=cobalt" />
+        <img src="https://github-readme-stats.vercel.app/api?username=neelanjan00&show_icons=true&theme=cobalt" width=50% />
     </span>
     <span style="flex-basis: 50%">
         <!--START_SECTION:waka-->
