@@ -16,7 +16,7 @@ Neelanjan Manna is a Software Engineer at [Harness](https://harness.io/). He is 
 - [GCP VM Instance Stop Experiment for LitmusChaos](https://neelanjan.dev/blog/FazA4ABptyIurtlD28Rk)
 <!-- BLOG-POST-LIST:END -->
 
-## My Development Stats This Week 📊
+## Dev Stats for This Week 📊
 <!--START_SECTION:waka-->
 
 ```text
