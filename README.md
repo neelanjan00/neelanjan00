@@ -29,3 +29,12 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+## Let's Stay in Touch! 💬
+<a href="mailto:hi@neelanjan.dev" target="blank"><img align="center" src="./email.png" alt="neelanjan00" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/neelanjan00" target="blank"><img align="center" src="./linkedin.png" alt="neelanjan00" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/NeelanjanManna" target="blank"><img align="center" src="./twitter.png" alt="NeelanjanManna" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://neelanjan.dev/feed.xml" target="blank"><img align="center" src="./rss.png" alt="Neelanjan Manna" /></a>
