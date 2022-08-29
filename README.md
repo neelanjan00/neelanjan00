@@ -10,10 +10,10 @@ Neelanjan Manna is a Software Engineer at [Harness](https://harness.io/). He is 
 
 ## Latest Blogs 📕
 <!-- BLOG-POST-LIST:START -->
+- [GCP IAM Integration for LitmusChaos with Workload Identity](https://neelanjan.dev/blog/EXfPGHZN6FvLdzjyUazN)
 - [Why Did I Contribute to the LitmusChaos Project for Hacktoberfest 2021](https://neelanjan.dev/blog/Kvvd5YLLA60NyBW5raLs)
 - [Chaos Engineering Made Simple](https://neelanjan.dev/blog/slQRHilpdKh3Uzoq3md1)
 - [GCP VM Disk Loss Experiment for LitmusChaos](https://neelanjan.dev/blog/Y8ILvChXlRKAYZjVjBLO)
-- [GCP VM Instance Stop Experiment for LitmusChaos](https://neelanjan.dev/blog/FazA4ABptyIurtlD28Rk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Dev Stats for This Week 📊
