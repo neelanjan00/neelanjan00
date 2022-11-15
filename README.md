@@ -20,11 +20,11 @@ Neelanjan Manna is a Software Engineer at [Harness](https://harness.io/). He is 
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     15 hrs 52 mins  ████████████████████████░   96.10 %
-JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     13 hrs 36 mins  ███████████████████████▓░   95.02 %
+YAML         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
