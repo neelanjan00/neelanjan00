@@ -10,10 +10,10 @@ Neelanjan Manna is a Software Engineer at [Harness](https://harness.io/). He is 
 
 ## Latest Blogs 📕
 <!-- BLOG-POST-LIST:START -->
+- [Building a Distributed Database from Scratch: The ConureDB Journey](https://neelanjan.dev/blog/building-a-distributed-database-from-scratch-the-conuredb-journey)
 - [Exploring Rust by Building a Load Balancer: Insights from EchidnaLB](https://neelanjan.dev/blog/exploring-rust-by-building-a-load-balancer-insights-from-echidnalb)
 - [Extending kubectl Utility With Plugins](https://neelanjan.dev/blog/extending-kubectl-utility-with-plugins)
 - [How to Install Drone CI Server in Kubernetes](https://neelanjan.dev/blog/how-to-install-drone-ci-server-in-kubernetes)
-- [GCP IAM Integration for LitmusChaos with Workload Identity](https://neelanjan.dev/blog/gcp-iam-integration-for-litmuschaos-with-workload-identity)
 <!-- BLOG-POST-LIST:END -->
 
 ## Dev Stats for This Week 📊
