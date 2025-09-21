@@ -2,7 +2,7 @@
 
 <img align="right" src="./octocat.gif" width="115px" />
 
-Neelanjan Manna is a Software Engineer at [Harness](https://harness.io/). He is a maintainer of the CNCF [LitmusChaos](https://litmuschaos.io/) project, a chaos engineering orchestration framework for validating the resiliency of cloud-native environments. He contributes to the development of emerging technologies including chaos engineering, distributed applications, and Kubernetes applications at Harness.
+Neelanjan Manna is a Software Engineer at [Abormal AI](https://abnormal.ai/). He is a maintainer of the CNCF [LitmusChaos](https://litmuschaos.io/) project, a chaos engineering orchestration framework for validating the resiliency of cloud-native environments.
 
 <br />
 
