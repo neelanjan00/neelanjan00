@@ -2,7 +2,7 @@
 
 <img align="right" src="./octocat.gif" width="115px" />
 
-Neelanjan Manna is a Software Engineer at [Abormal AI](https://abnormal.ai/). He is a maintainer of the CNCF [LitmusChaos](https://litmuschaos.io/) project, a chaos engineering orchestration framework for validating the resiliency of cloud-native environments.
+Neelanjan Manna is a Software Engineer at [Abormal AI](https://abnormal.ai/). He is a maintainer of the CNCF [LitmusChaos](https://litmuschaos.io/) project, a chaos engineering orchestration framework for validating the resiliency of cloud-native environments and a contributor to the CNCF [KEDA](https://keda.sh/) project. He is an avid speaker in the Cloud Native community organized meetups and conferences, including KubeCon NA, KCD Bengaluru, KCD Sri Lanka, and ChaosCarnival among others.
 
 <br />
 
