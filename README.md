@@ -20,11 +20,11 @@ Neelanjan Manna is a Software Engineer at [Abormal AI](https://abnormal.ai/). He
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Python       2 hrs 2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
-TypeScript   1 hr 49 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-CSS          32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-CSV          28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Go           2 hrs 35 mins         ████████░░░░░░░░░░░░░░░░░   32.51 %
+Python       2 hrs 2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+TypeScript   1 hr 40 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+YAML         43 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+CSV          28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
